@@ -1,0 +1,6 @@
+$ eb init -p python-3.9 django-tutorial
+$ eb init
+$ eb create django-env
+$ eb status
+$ eb open
+
